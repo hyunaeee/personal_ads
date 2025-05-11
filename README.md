@@ -3,7 +3,7 @@
 ### Project Overview | 프로젝트 개요
 This repository implements an end-to-end personalized advertisement recommendation system that dynamically selects and ranks the most relevant ads for users based on their historical behavior, contextual information, and real-time signals. The system incorporates a multi-stage ranking pipeline with collaborative filtering, content-based filtering, and deep learning-based matching to maximize both user engagement and advertiser return on investment.
 
-이 저장소는 사용자의 과거 행동, 상황 정보 및 실시간 신호를 기반으로 가장 관련성 높은 광고를 동적으로 선택하고 순위를 매기는 엔드투엔드 개인화 광고 추천 시스템을 구현합니다. 이 시스템은 협업 필터링, 콘텐츠 기반 필터링 및 딥러닝 기반 매칭이 포함된 다단계 랭킹 파이프라인을 통합하여 사용자 참여와 광고주의 투자 수익률을 최대화합니다.
+이 리포지토리는 사용자의 과거 행동, 상황 정보 및 실시간 신호를 기반으로 가장 관련성 높은 광고를 동적으로 선택하고 순위를 매기는 엔드투엔드 개인화 광고 추천 시스템을 구현합니다. 이 시스템은 협업 필터링, 콘텐츠 기반 필터링 및 딥러닝 기반 매칭이 포함된 다단계 랭킹 파이프라인을 통합하여 사용자 참여와 광고주의 투자 수익률을 최대화합니다.
 
 ### Key Features | 주요 기능
 - **Multi-stage recommendation pipeline**: Retrieval, ranking, and re-ranking stages for efficient ad selection
